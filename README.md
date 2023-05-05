@@ -2,7 +2,7 @@
 
 Program that receives the salary and position of an employee and calculates the new salary.
 If the employee's position is not in the table, they should receive a 40% increase. 
-It shows the old salary, the new salary, and the difference.
+It displays the old salary, the new salary, and the difference.
 
 Salary Increase:
 POSITION 			      INCREASE
